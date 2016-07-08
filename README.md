@@ -1,1 +1,3 @@
-# Odin_HTML_CSS
+# google-homepage
+https://github.com/chrisdav6/google-homepage
+http://www.theodinproject.com/web-development-101/html-css?ref=lnav
